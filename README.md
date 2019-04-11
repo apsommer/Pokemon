@@ -1,8 +1,8 @@
 # Pokemon
 
-This app displays a list of Pokemons and their respective characteristics taken from JSON data. Used in a Udacity course in the Android Basics Nanodegree by Google.
+This in an Android app that displays a list of Pokemons and their respective characteristics taken from JSON data, created as part of the [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
 
-# Pre-requisites
+### Pre-requisites
 
 Android SDK v24
 Android Build Tools v23.0.3
@@ -11,13 +11,14 @@ Getting Started
 
 This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
-# Support
+### Support
 
-Google+ Community: https://plus.google.com/communities/105153134372062985968
-Stack Overflow: http://stackoverflow.com/questions/tagged/android
-Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+- Google+ Community: https://plus.google.com/communities/105153134372062985968
+- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-# License
+Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+### License
 
 Copyright 2017 The Android Open Source Project, Inc.
 
